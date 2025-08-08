@@ -13,7 +13,7 @@
 
 - Rule Matching: It then compares this packet information against its list of rules. These rules are configured by an administrator or are part of the operating system's default settings. Each rule specifies a condition (e.g., traffic from a specific IP address on a particular port) and an action.
 
--Action: Based on the rule that the packet matches, the firewall takes one of two actions:
+- Action: Based on the rule that the packet matches, the firewall takes one of two actions:
 
   - Allow: If the packet matches an "allow" rule, the firewall lets it pass to its intended destination.
 
